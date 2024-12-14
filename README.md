@@ -2,6 +2,10 @@
 
 #### code is modifed from https://github.com/AnjieCheng/SpatialRGPT.gitcd 
 
+### Data download
+
+[download 2D indoor images from here](https://drive.google.com/drive/folders/14cGEmNEdRJJZ3wPUoZPhSu9NssItvfFR?usp=drive_link)
+
 ### Installation instruction
 
 ```sh
